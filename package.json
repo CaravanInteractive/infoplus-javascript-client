@@ -1,7 +1,7 @@
 {
-  "name": "infoplus-javascript-client",
-  "version": "beta",
-  "description": "Infoplus_API_",
+  "name": "darwin-infoplus",
+  "version": "1.0.0",
+  "description": "Infoplus API.",
   "license": "Unlicense",
   "main": "src/index.js",
   "scripts": {
